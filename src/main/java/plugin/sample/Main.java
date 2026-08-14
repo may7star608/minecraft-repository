@@ -42,7 +42,7 @@ public final class Main extends JavaPlugin implements Listener {
 
         String mailad = "info@raise-tech.net";
     }
-
+//こんにちは
     /**
      * プレイヤーがスニークを開始/終了する際に起動されるイベントハンドラ。
      *
